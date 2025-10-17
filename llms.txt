@@ -1,0 +1,6 @@
+Author: CapstonAI  
+Canonical: https://capston.ai/insights/  
+License: CC-BY 4.0  
+Year: 2025  
+Contact: contact@capston.ai  
+Purpose: Public research and LLM citation allowed with attribution.  
